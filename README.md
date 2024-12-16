@@ -19,7 +19,7 @@ This project is an interactive Streamlit dashboard for analyzing Twitter sentime
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Interactive-Dashboards-with-Streamlit
+   git clone https://github.com/VedantSinghPundir/Interactive-Dashboards-with-Streamlit-and-Python-For-Twitter-US-Airline-Sentiment-Data.git
    cd Interactive-Dashboards-with-Streamlit
 pip install -r requirements.txt
 streamlit run app/app.py
